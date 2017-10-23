@@ -1,9 +1,15 @@
 Patch 1.01 Preview (ETA 26th/27th October)
 
 - Alloy quest description updated (wiki integration)
-- Added recipes to craft Animania Milk buckets to vanilla milk buckets for the pigiron alloy recipe 
-   (previously required a "Cow in a Jar" to obtain vanilla milk)
-- added "quest" to update guide (bq_admin default load command + ingame patchnotes) > repeatable quest with quest reload command button
+- added "quest" for update guide/patchnotes ingame (bq_admin default load command + ingame patchnotes) > repeatable quest with quest reload command button
 - boss loots added
-- item stages mod added > using armors is now restricted to ages too
 - removed copper and lead from ironage restriction (tools, weapons now useable before unlocking ironage)
+- upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
+
+New mods:
+- item stages > using armors is now restricted to ages too
+
+
+Maybe added:
+- Added recipes to craft Animania Milk buckets to vanilla milk buckets for the pigiron alloy recipe 
+   (previously required a "Cow in a Jar" to obtain vanilla milk
