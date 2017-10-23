@@ -1,7 +1,8 @@
 Patch 1.01 Preview (ETA 26th/27th October)
 
 - Alloy quests description updated (better info on how to obtain some of the liquids required to make an alloy)
-- added "quest" for update guide/patchnotes ingame (bq_admin default load command + ingame patchnotes) > repeatable quest with quest reload command button
+- added "quest" for update guide/patchnotes ingame (bq_admin default load command + ingame patchnotes) 
+   > repeatable quest with quest reload command button
 - boss loots added
 - removed copper and lead from ironage restriction (tools, weapons now useable before unlocking ironage)
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
