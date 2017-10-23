@@ -7,6 +7,7 @@ Patch 1.01 Preview (ETA end of this week)
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
 - Animania: slightly tweaked configs to be more server friendly
 - added quest that explains how to get vanilla torches to the Minecolonies questline.
+- added materials to stages that have no apropiate tool (preparation for TinkerStages allowing restriction of upgrades/modifiers)
 
 
 New mods:
