@@ -7,7 +7,7 @@ Patch 1.01 Preview (ETA end of this week)
 - removed copper, lead and aluminum brass from ironage restriction (tools, weapons now useable before unlocking ironage)
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
 - Animania: slightly tweaked configs to be more server friendly
-- added recipe for a stack vanilla torches (flint + stack of unlit torch) > sorry found no way to add that recipe with x unlit torches yet.
+
 
 New mods:
 - item stages > using armors is now restricted to ages too
