@@ -6,3 +6,4 @@ Patch 1.01 Preview (ETA 26th/27th October)
 - added "quest" to update guide (bq_admin default load command + ingame patchnotes) > repeatable quest with quest reload command button
 - boss loots added
 - item stages mod added > using armors is now restricted to ages too
+- removed copper and lead from ironage restriction (tools, weapons now useable before unlocking ironage)
