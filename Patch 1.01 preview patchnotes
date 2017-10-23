@@ -5,6 +5,7 @@ Patch 1.01 Preview (ETA 26th/27th October)
 - boss loots added
 - removed copper and lead from ironage restriction (tools, weapons now useable before unlocking ironage)
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
+- Animania: slightly tweaked configs to be more server friendly
 
 New mods:
 - item stages > using armors is now restricted to ages too
