@@ -1,0 +1,5 @@
+- Alloy quest description updated (wiki integration)
+- Pigiron alloy quest now requires the Cooking for Blockheads "Milk in a Jar" quest (item required to make the alloy)
+- added "quest" to update guide (bq_admin default load command + ingame patchnotes)
+- boss loots added
+- item stages mod added > using armors is now restricted to ages too
