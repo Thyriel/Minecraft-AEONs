@@ -8,7 +8,7 @@ Patch 1.01 Preview (ETA end of this week)
 - Animania: slightly tweaked configs to be more server friendly
 - added quest that explains how to get vanilla torches to the Minecolonies questline.
 - added materials to stages that have no apropiate tool (preparation for TinkerStages allowing restriction of upgrades/modifiers)
-- removed PrimalCore "Stone basin" and related recipes (bug with BQM). The reciped now require Botanias Pestle & Mortar to be crafted.
+- removed PrimalCore "Stone basin" and related recipes (bug with BQM). These recipes now require Botanias Pestle & Mortar to be crafted.
 
 
 New mods:
