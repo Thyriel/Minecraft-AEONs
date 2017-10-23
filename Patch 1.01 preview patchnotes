@@ -1,5 +1,6 @@
 - Alloy quest description updated (wiki integration)
-- Pigiron alloy quest now requires the Cooking for Blockheads "Milk in a Jar" quest (item required to make the alloy)
+- Added recipes to craft Animania Milk buckets to vanilla milk buckets for the pigiron alloy recipe 
+   (previously required a "Cow in a Jar" to obtain vanilla milk)
 - added "quest" to update guide (bq_admin default load command + ingame patchnotes)
 - boss loots added
 - item stages mod added > using armors is now restricted to ages too
