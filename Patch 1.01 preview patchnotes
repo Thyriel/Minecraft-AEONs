@@ -1,6 +1,6 @@
 - Alloy quest description updated (wiki integration)
 - Added recipes to craft Animania Milk buckets to vanilla milk buckets for the pigiron alloy recipe 
    (previously required a "Cow in a Jar" to obtain vanilla milk)
-- added "quest" to update guide (bq_admin default load command + ingame patchnotes)
+- added "quest" to update guide (bq_admin default load command + ingame patchnotes) > repeatable quest with quest reload command button
 - boss loots added
 - item stages mod added > using armors is now restricted to ages too
