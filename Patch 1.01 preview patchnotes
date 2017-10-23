@@ -4,7 +4,6 @@ Patch 1.01 Preview (ETA end of this week)
 - added "quest" for update guide/patchnotes ingame (bq_admin default load command + ingame patchnotes) 
    > repeatable quest with quest reload command button
 - boss loot added (Ender Dragon, Wither, etc.) This does not affect blight (normal mobs with purple flames) loot
-- removed copper, lead and aluminum brass from ironage restriction (tools, weapons now useable before unlocking ironage)
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
 - Animania: slightly tweaked configs to be more server friendly
 - added quest that explains how to get vanilla torches to the Minecolonies questline.
