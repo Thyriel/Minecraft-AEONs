@@ -3,11 +3,7 @@ Patch 1.1 Preview (ETA end of this week)
 - Alloy quests description updated (better info on how to obtain some of the liquids required to make an alloy)
 - added "quest" for update guide/patchnotes ingame (bq_admin default load command + ingame patchnotes) 
    > repeatable quest with quest reload command button
+   TIPP: If you install a patch and don't see a quest there with the apropiate patchnumber you need to reload quests !
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
 - added quest that explains how to get vanilla torches to the Minecolonies questline.
 - removed PrimalCore "Stone basin" and related recipes (bug with BQM). These recipes now require Botanias Pestle & Mortar instead. 
- >>>(already hotfixed on official server)
-
-
-New mods:
-- item stages > using armors/shields is now restricted to ages too.
