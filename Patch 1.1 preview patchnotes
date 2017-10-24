@@ -5,7 +5,6 @@ Patch 1.1 Preview (ETA end of this week)
    > repeatable quest with quest reload command button
 - upgrading a Tinker tool / weapon with things like emeralds no longer increases the mining level of that tool/weapon.
 - added quest that explains how to get vanilla torches to the Minecolonies questline.
-- added materials to stages that have no apropiate tool (preparation for TinkerStages allowing restriction of upgrades/modifiers)
 - removed PrimalCore "Stone basin" and related recipes (bug with BQM). These recipes now require Botanias Pestle & Mortar instead. 
  >>>(already hotfixed on official server)
 
