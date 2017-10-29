@@ -1,0 +1,22 @@
+- fixed some quests that accepted wrong materials (e.g. Goat quest) > NBT check removed
+- Manasteel, Terrasteel, Elementium, Gaia spirit, Gaia steel and Adamantium Tinker bows / arrows / shafts now have proper stats. 
+    Most of the new stats can't be applied to already crafted ones, sorry.
+- Hunting quests for certain mobs now require less mobs to be killed. (and corrected those that required a 10/10/10 kill)
+- added meeting quest for "the Grue" to explain what killed you in the dark (beneath dimension)
+- removed resource loader mod (no longer needed with Romimoco update). 
+ >> If you still have the "resources" folder you can safely delete it.
+- removed some unobtainable items from the tinker smeltery. (e.g. Adamantium / Gaia steel ore)
+  >> These items are only internally used to allow the creation of the corresponding liquids and should not be shown to players at all
+- enabled Quark's hotkey for autojump in configs.
+ > You should setup a key for that feature in configs
+- updated various mods
+
+================
+NEW FEATURE:
+================
+- Materials (ores, ingots, etc.) from Obsidian age and higher can no longer be melted with lava as fuel in the tinker smeltery. 
+   (required temperature >1000°)
+- added Astral Sorcery's "Liquid Starlight" as a Tinker smeltery fuel with a temperature of 3500°. 
+  > This will need quite some effort put into that mod to progress beyond obsidian age !
+- added quest guiding you to the new fuel
+- added Astral Sorcery questline (basic for now)
