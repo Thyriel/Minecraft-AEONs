@@ -1,5 +1,5 @@
 - vanilla Hoe can now be crafted (fix for minecolonies farmer not working with TiC mattock)
-   > note that in order to make "flaked diamond" you need a harder material then stone to punch a diamond onto
+   > note that in order to make "flaked diamond" you need a harder material then stone
 - vanilla bow / arrows can now be crafted (fixes minecolonies archers not accepting TiC bows as weapon)
    > Arrows recipe works with any TiC material that you like
 Vanilla hoe/bow/arrow may be removed in a later patch if/when minecolonies allows usage of TiC mattocks / bows (requested) for colonists
