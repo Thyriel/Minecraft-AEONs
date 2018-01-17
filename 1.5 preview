@@ -1,3 +1,21 @@
+- Updated almost all mods to newer versions
+- removed mods: Weather2, IGCF, OpticManager
+- new mods: Extended Days
+
+Bugfixes:
+- moon no longer stuck at fullmoon (#10)
+- Day/Night Cycle extension replaced by "Extended Days" mod: 
+    * Days now have 18 minutes (+10 minutes night) extending the vanilla time per daycycle by a total of 8 minutes
+    * Brightness is again a client side setting
+    
+    
+Notes:
+- Weather2 removed due to compatibility problems with shaders.
+    
+
+
+
+
 MORE QUESTS ! 
 for...
 - Forestry (Arboriculture, Lepidopterology, Farm)
