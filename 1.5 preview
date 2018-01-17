@@ -11,22 +11,12 @@ Bugfixes:
 New Quests:
    * Animania: Horse Carts
    * Small questline for new mod "Better Fishing"
-
-
-Notes:
-- Weather2 mod removed due to compatibility problems with shaders.
-    
-
-
-
+   
 
 MORE QUESTS ! 
 for...
-- Forestry (Arboriculture, Lepidopterology, Farm)
-- Botania (Flowers, Lens)
-- Astral Sorcery
+
 - fishing
 - Tinker tank
 
 - added oreDict entries for various questitems so the quests now accept different variations of those items (e.g. Oak / Spruce / ... variants)
-- added "Pressure Pipes" mod (+quests)
