@@ -7,16 +7,13 @@ Bugfixes:
 - Day/Night Cycle extension replaced by "Extended Days" mod: 
     * Days now have 18 minutes (+10 minutes night) extending the vanilla time per daycycle by a total of 8 minutes
     * Brightness is again a client side setting
+- Added a way to obtain a vanilla iron sword for upgrading the Minecolonies Barracks. (Details in final patchnotes)
     
 New Quests:
    * Animania: Horse Carts
    * Small questline for new mod "Better Fishing"
-   
+   * Tinker Tank   
+   * added oreDict entries for various questitems so the quests now accept different variations of those items (e.g. Oak / Spruce / ... variants)
 
-MORE QUESTS ! 
-for...
-
-- fishing
-- Tinker tank
-
-- added oreDict entries for various questitems so the quests now accept different variations of those items (e.g. Oak / Spruce / ... variants)
+Roguelike Dungeons are now far more dangerous ! (Only affects newly generated dungeons)
+   * Details coming later...
