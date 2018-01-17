@@ -1,6 +1,6 @@
 - Updated almost all mods to newer versions
 - removed mods: Weather2, IGCF, OpticManager
-- new mods: Extended Days
+- new mods: Extended Days, Better Fishing
 
 Bugfixes:
 - moon no longer stuck at fullmoon (#10)
@@ -8,9 +8,13 @@ Bugfixes:
     * Days now have 18 minutes (+10 minutes night) extending the vanilla time per daycycle by a total of 8 minutes
     * Brightness is again a client side setting
     
-    
+New Quests:
+   * Animania: Horse Carts
+   * Small questline for new mod "Better Fishing"
+
+
 Notes:
-- Weather2 removed due to compatibility problems with shaders.
+- Weather2 mod removed due to compatibility problems with shaders.
     
 
 
