@@ -8,7 +8,7 @@ Bugfixes:
 - Day/Night Cycle extension replaced by "Extended Days" mod: 
     * Days now have 18 minutes (+10 minutes night) extending the vanilla time per daycycle by a total of 8 minutes
     * Brightness is again a client side setting
-- Added a way to obtain a vanilla iron sword for upgrading the Minecolonies Barracks. (Details in final patchnotes)
+- Added a way to obtain a vanilla iron sword for upgrading the Minecolonies Barracks. (#9)
 - Hearts should no longer drop in mobfarms
 - Blights killed in mobfarms now increase the area level
 
