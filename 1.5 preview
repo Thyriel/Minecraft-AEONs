@@ -38,6 +38,7 @@ Roguelike Dungeons are now far more dangerous ! (Only affects newly generated du
 * Carrying spawners has been disabled
 * Note that mob spawning inside dungeons is NOT restricted by the ages you have not unlocked yet.
 * If you want to manually create a dungeon (in case you already have generated almost all chunks around your base) you
-    can use the "/roguelike dungeon here" command. Note that using this command will generate a lot lag for up to a minute !
+    can use the "/roguelike dungeon here" command to generate a new dungeon where you stand. (DO NOT USE THIS NEAR YOUR BASE !!!)
+    Note that using this command will generate a lot lag for up to a minute !
     
 
