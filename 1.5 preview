@@ -18,7 +18,7 @@ Bugfixes:
     * Brightness is again a client side setting
 - Vanilla iron sword (for upgrading the Minecolonies Barracks, see Issue #9) can now drop in dungeon level 4 chests.
 - Hearts should no longer drop in mobfarms
-- Blights killed in mobfarms now increase the area level
+- Blights killed by environment (e.g. mobfarms)ow increase the area level
 
 
 New Quests:
