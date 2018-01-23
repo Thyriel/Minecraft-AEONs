@@ -35,6 +35,7 @@ Roguelike Dungeons are now far more dangerous ! (Only affects newly generated du
    - Dungeon level 3 features Obsidian Age mobs
    - Dungeon level 4 features Cobalt Age mobs
 * Dungeon level 0 + 1, 2, 3 and 4 now each have their own chest loot. The deeper you go the better loot you will find.
+* Added a lot of new loot to dungeon chests
 * Carrying spawners has been disabled
 * Dungeons now generate in the Nether too !
 * Note that mob spawning inside dungeons is NOT restricted by the ages you have not unlocked yet.
