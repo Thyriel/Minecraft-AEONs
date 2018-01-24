@@ -47,6 +47,6 @@ Roguelike Dungeons are now far more dangerous ! (Only affects newly generated du
  * With the new Soulus mod you can craft Spawners of basic types (Zombie, Spiders, etc.).
  * Added a new Questline for building mobfarms / fighting arenas with Soulus and Mob Grinding Utils.
  * Spawners have a chance to spawn mutated variants of mobs and even bosses ! (Not locked behind stage progression like natural spawning)
- * As Soulus adds new kinds of resources (Fossil blocks) to the world it's 
-     recommended to temporary enable MMD Orespawns retrogen (details in final patchnotes)
+ * [NOT COMING !!] > Soulus Fossil Ores will not be spawned in the world, so you don't have to worry about world generation changing
+     > Instead mobs will have a chance to drop fossils (and you may find them in reward bags)
 
