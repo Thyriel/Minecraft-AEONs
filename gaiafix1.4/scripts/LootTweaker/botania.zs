@@ -19,12 +19,12 @@ for itable in TableArray {
 
 val gaia = LootTables.getTable("botania:gaia_guardian");
 val poolb = gaia.getPool("life_essence");
-    poolb.setRolls(4,8);
-    poolb.setBonusRolls(4,8);
+    poolb.setRolls(2,4);
+    poolb.setBonusRolls(1,4);
 
 val gaiab = LootTables.getTable("botania:gaia_guardian_2");
 val poolc = gaiab.getPool("life_essence");
-    poolb.setRolls(6,12);
-    poolb.setBonusRolls(6,12);
+    poolb.setRolls(4,8);
+    poolb.setBonusRolls(2,6);
 
 
