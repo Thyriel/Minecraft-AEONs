@@ -27,15 +27,12 @@ New mod "Soulus":
    * note that you must stand near these "Summoners" for ~10 minutes until they are fully charged to spawn a mob
    * Upgrade them to spawn faster & more mobs or increase the player detection range.
    * Mob types for spawners are age based too. With every age unlocked you will be able to create new kind of spawners
-   * even Wither and Mutated Mobs bosses can be spawned later, although i would NOT recommend upgrading
-         a boss spawner with increased quantity
    * most crafted spawners can spawn various mob variations (like mutated versions of mobs, etc.)
  
 
 New Quests:
-   * Animania: Horse Carts
-   * Small questline for new mod "Better Fishing"
-   * Tinker Tank
+   * Animania: Horse Carts quests
+   * Quests for new mod "Better Fishing"
    * Mobfarms: added quests for new mod Soulus (create your own Spawners)
 
 Roguelike Dungeons are now far more dangerous ! (Only affects newly generated dungeons)
