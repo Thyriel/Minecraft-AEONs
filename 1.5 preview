@@ -20,6 +20,14 @@ Bugfixes:
 - Hearts should no longer drop in mobfarms
 - Blights killed by environment (e.g. mobfarms) now increase the area level
 
+New mod "Soulus":
+   * craft Spawners for your mobfarms or fighting arenas
+   * note that you must stand near these "Summoners" for ~10 minutes until they are fully charged to spawn a mob
+   * Upgrade them to spawn faster & more mobs or increase the player detection range.
+   * Mob types for spawners are age based too. With every age unlocked you will be able to create new kind of spawners
+   * even Wither and Mutated Mobs bosses can be spawned later, although i would NOT recommend upgrading
+         a boss spawner with increased quantity
+ 
 
 New Quests:
    * Animania: Horse Carts
@@ -28,7 +36,7 @@ New Quests:
    * Mobfarms: added quests for new mod Soulus (create your own Spawners)
 
 Roguelike Dungeons are now far more dangerous ! (Only affects newly generated dungeons)
-* Mutated Mobs now spawn inside dungeons following the AEONs pattern:
+* Mutated Mobs now spawn inside dungeons based on AEONs age progression:
    - Dungeon level 0 & 1 features Iron Age mobs
    - Dungeon level 2 features Diamond Age mobs
    - Dungeon level 3 features Obsidian Age mobs
