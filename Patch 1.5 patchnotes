@@ -55,3 +55,13 @@ Hotfix for 1.5:
 - backported Hardcore armor mod to previous version used in 1.4
 - fixed #13 (Ardite / ore chunks of no use)
 - updated some mods
+
+============================================
+Patch 1.5.b Hotfix
+- fixed Copper, Tin and Apatite ore generation
+
+In worlds that where newly generated with 1.5 or 1.5.a (or in chunks newly generated with that versions) the ore will still be missing.
+
+If you want to recreate the ore you can edit "config/orespawn.cfg" and temporary enable the "Force retrogen" option there. 
+But be aware that this option will also regenerate already mined ore and that it 
+may damage any underground structure you have built.
